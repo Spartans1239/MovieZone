@@ -65,4 +65,4 @@ To start using MovieZone on your local development server, follow these steps:
 
 ---
 
-Thank you for using MovieZone! We hope you enjoy exploring and learning about movies with our website. If you have any questions or encounter any issues, please feel free to reach out to us.
+Thank you for using MovieZone! We hope you enjoy exploring and learning about movies with our website. If you have any questions or encounter any issues, please feel free to reach out to us. I hope U can give me some tips to improve further.
